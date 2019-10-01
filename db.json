@@ -7,10 +7,11 @@
       "Highest Severity Level": "NO_EVENT_RECORDED",
       "isRightShoulder": false,
       "Num of Event Groups": 2000,
-      "Guages": {
+      "Guages": [{
         "id": 15,
         "eventsMissingFlag": true
       }
+                 ]
     },
     {
       "id": 2,
