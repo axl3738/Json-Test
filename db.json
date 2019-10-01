@@ -6,7 +6,7 @@
       "highestSeverityLevel": "NO_EVENT_RECORDED",
       "isRightShoulder": false,
       "numberOfEventsGroups": 2000,
-      "Guages": [{
+      "guages": [{
         "id": 15,
         "eventsMissingFlag": true
       }
