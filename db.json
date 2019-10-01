@@ -3,9 +3,9 @@
     {
       "id": 1,
       "ediPi": "JSONPut23",
-      "Highest Severity Level": "NO_EVENT_RECORDED",
+      "highestSeverityLevel": "NO_EVENT_RECORDED",
       "isRightShoulder": false,
-      "Num of Event Groups": 2000,
+      "numberOfEventsGroups": 2000,
       "Guages": [{
         "id": 15,
         "eventsMissingFlag": true
@@ -15,10 +15,10 @@
     {
       "id": 2,
       "ediPi": "JSONPut12",
-      "Highest Severity Level": "SEVERE",
+      "highestSeverityLevel": "SEVERE",
       "isRightShoulder": false,
-      "Num of Event Groups": 2000,
-      "Guages": [
+      "numberOfEventsGroups": 2000,
+      "guages": [
         {
           "id": 10,
           "eventsMissingFlag": false
