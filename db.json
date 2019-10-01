@@ -1,20 +1,34 @@
 {
-  "Personnels":[
+  "Personnels": [
     {
-      "id" : 1,
+      "id": 1,
       "EdiPi": "JSONPut23",
       "gauges": null,
       "Highest Severity Level": "NO_EVENT_RECORDED",
       "isRightShoulder": false,
-      "Num of Event Groups": 2000
+      "Num of Event Groups": 2000,
+      "Guages": {
+        "id": 15,
+        "eventsMissingFlag": true
+      }
     },
     {
-      "id" : 2,
+      "id": 2,
       "EdiPi": "JSONPut12",
       "gauges": null,
       "Highest Severity Level": "SEVERE",
       "isRightShoulder": false,
-      "Num of Event Groups": 2000
+      "Num of Event Groups": 2000,
+      "Guages": [
+        {
+          "id": 10,
+          "eventsMissingFlag": false
+        },
+        {
+          "id": 11,
+          "eventsMissingFlag": true
+        }
+      ]
     }
   ]
 }
