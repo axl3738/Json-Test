@@ -4,7 +4,6 @@
       "EdiPi": "JSONPut23",
       "gauges": null,
       "Highest Severity Level": "NO_EVENT_RECORDED",
-      "ID": 125236,
       "isRightShoulder": false,
       "Num of Event Groups": 2000
     },
@@ -12,7 +11,6 @@
       "EdiPi": "JSONPut12",
       "gauges": null,
       "Highest Severity Level": "SEVERE",
-      "ID": 16,
       "isRightShoulder": false,
       "Num of Event Groups": 2000
     }
