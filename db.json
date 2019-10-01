@@ -5,7 +5,7 @@
       "ediPi": "JSONPut23",
       "highestSeverityEvent": "NO_EVENT_RECORDED",
       "isRightShoulder": false,
-      "numberOfEventsGroups": 2000,
+      "numberOfEventGroups": 2000,
       "gauges": [{
         "id": 15,
         "eventsMissingFlag": true
@@ -17,7 +17,7 @@
       "ediPi": "JSONPut12",
       "highestSeverityEvent": "SEVERE",
       "isRightShoulder": false,
-      "numberOfEventsGroups": 2000,
+      "numberOfEventGroups": 2000,
       "gauges": [
         {
           "id": 10,
